@@ -1,5 +1,5 @@
 This is a school project, unless you are my teacher, GET OUT
-<a href="https://kk1212kk.github.io/SchoolProject.github.io/">
+<a href="https://kk1212kk.github.io/SchoolProject.github.io/schoolReportThing.html">
 <button>To Project</button>
 </a>
 
